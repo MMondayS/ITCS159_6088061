@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sawasdee
+=======
+The faculty of Information and Communication Technology
+This is my new feature
+>>>>>>> MyNewFeature
 =======
 The faculty of Information and Communication Technology
 This is my new feature
